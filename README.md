@@ -1,10 +1,7 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./cineva_light.png">
-  <source media="(prefers-color-scheme: light)" srcset="./cineva_dark.png">
-  <img alt="Cineva" src="./cineva_light.png" width="240">
-</picture>
+<img src="./cineva_light.png#gh-dark-mode-only" alt="Cineva" width="240">
+<img src="./cineva_dark.png#gh-light-mode-only" alt="Cineva" width="240">
 
 <br />
 
