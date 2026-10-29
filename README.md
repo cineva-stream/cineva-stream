@@ -10,7 +10,7 @@
 
 **Discover, track, and enjoy movies and series, beautifully.**
 
-[Website](https://cineva.primadev.id) · [Download App](https://your-download-link.com) · [Report a Bug](https://github.com/cineva-stream/Cineva/issues) · [Request a Feature](https://github.com/cineva-stream/Cineva/issues)
+[Website](https://cineva.primadev.id) · [Download App](https://github.com/cineva-stream/Cineva/releases/download/v1.0.8/Cineva_v1.0.8.apk) · [Report a Bug](https://github.com/cineva-stream/Cineva/issues) · [Request a Feature](https://github.com/cineva-stream/Cineva/issues)
 
 </div>
 
