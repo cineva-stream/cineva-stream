@@ -1,7 +1,7 @@
 <<div align="center">
   <div align="center">
-    <img src="./cineva_light.png#gh-dark-mode-only" alt="Cineva" width="240">
-    <img src="./cineva_dark.png#gh-light-mode-only" alt="Cineva" width="240">
+    <img src="./cineva_dark.png#gh-dark-mode-only" alt="Cineva" width="240">
+    <img src="./cineva_light.png#gh-light-mode-only" alt="Cineva" width="240">
   </div>
 
 <br />
