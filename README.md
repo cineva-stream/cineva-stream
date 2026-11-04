@@ -1,16 +1,24 @@
-<div align="center">
+<p align="center">
   <div align="center">
     <img src="./cineva_dark.png#gh-dark-mode-only" alt="Cineva" width="240">
     <img src="./cineva_light.png#gh-light-mode-only" alt="Cineva" width="240">
   </div>
+</p>
 
-<br />
+<p align="center">
+  <strong>Modern High-Performance Movie, TV Series, and Live TV Streaming Application Built with Flutter</strong>
+</p>
 
-**Discover, track, and enjoy movies and series, beautifully.**
-
-[Website](https://cineva.primadev.id) · [Download App](https://github.com/cineva-stream/Cineva/releases/download/v1.0.8/Cineva_v1.0.8.apk) · [Report a Bug](https://github.com/cineva-stream/Cineva/issues) · [Request a Feature](https://github.com/cineva-stream/Cineva/issues)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-3.12+-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform" />
+  <img src="https://img.shields.io/badge/Release-v1.1.0-FF6D00?style=for-the-badge" alt="Release v1.1.0" />
+  <img src="https://img.shields.io/badge/License-GPL--3.0-FFA000?style=for-the-badge" alt="License GPL-3.0" />
+  <a href="https://github.com/cineva-stream/Cineva/actions/workflows/ci.yml">
+    <img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI Status" />
+  </a>
+</p>
 
 ---
 
